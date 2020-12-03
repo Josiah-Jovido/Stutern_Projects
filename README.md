@@ -20,5 +20,5 @@ The objective of this challenge was to build a regressor that recommends the cre
 * Difference between bias and variance?
 * Classification over Regression?
 
-- [x] Biweekly Challenge 1
-- [x] Biweekly Challenge 2
+- [x] [Biweekly Challenge 1](https://github.com/Josiah-Jovido/Stutern_Projects/blob/main/Biweekly_task_1/Biweekly_Task.py)
+- [x] [Biweekly Challenge 2](https://github.com/Josiah-Jovido/Stutern_Projects/blob/main/Biweekly_task_2/Biweekly_task2.ipynb)
